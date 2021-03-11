@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\normalMappingPS.cso
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\normalMappingVS.hlsl(4,34-36): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\normalMappingVS.cso
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\normalMappingVS.hlsl(4,34-36): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\pixelLightingPS.cso
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\pixelLightingVS.hlsl(3,34-36): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\pixelLightingVS.hlsl(3,34-36): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\pixelLightingVS.cso
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\unlitColorPS.cso
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\unlitColorVS.hlsl(3,34-36): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\unlitColorVS.hlsl(3,34-36): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\unlitColorVS.cso
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\vertexLightingPS.cso
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\vertexLightingVS.hlsl(5,34-36): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\vertexLightingVS.hlsl(5,34-36): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\user\source\repos\Shaders\kadai_08\Project4\Project4\vertexLightingVS.cso
+  camera.cpp
+  field.cpp
+  input.cpp
+  main.cpp
+  manager.cpp
+  model.cpp
+  player.cpp
+  polygon.cpp
+  renderer.cpp
+  コードを生成中...
+  Project4.vcxproj -> C:\Users\user\source\repos\Shaders\kadai_08\Project4\Debug\Project4.exe
